@@ -63,4 +63,4 @@ If you proceed with then building and loading your kernel, you will not have to 
 KBUILD_EXTRA_SYMBOLS := ../../../src/Module.symvers
 ```
 ### Contact
-For this version of kscoket you may reach out to cloneozone@gmail.com.
+For this version of ksocket you may reach out to cloneozone@gmail.com.
