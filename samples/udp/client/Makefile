@@ -1,6 +1,6 @@
 KBUILD_EXTRA_SYMBOLS := ../../../src/Module.symvers
 
-obj-m := udp_server.o
+obj-m := udp_client.o
 
 KDIR := /lib/modules/$(shell uname -r)/build
 PWD  := $(shell pwd)
